@@ -1,0 +1,19 @@
+## walleye-user 8.1.0 OPM1.171019.019 4527419 release-keys
+- Manufacturer: google
+- Platform: 
+- Codename: walleye
+- Brand: google
+- Flavor: walleye-user
+- Release Version: 8.1.0
+- Kernel Version: 
+- Id: OPM1.171019.019
+- Incremental: 4527419
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: google/walleye/walleye:8.1.0/OPM1.171019.019/4527419:user/release-keys
+- OTA version: 
+- Branch: walleye-user-8.1.0-OPM1.171019.019-4527419-release-keys
+- Repo: google_walleye_dump
